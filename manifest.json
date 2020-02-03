@@ -1,0 +1,24 @@
+{  
+    "name":"Homework Manager",
+    "description":"Homework Manager",
+    "version":"0.1",
+    "manifest_version":1,
+    "minimum_chrome_version":"29",
+    "browser_action":{  
+       "default_title":"Execution API Example",
+       "default_popup":"popup.html"
+    },
+    "permissions":[  
+       "tabs",
+       "<all_urls>",
+       "identity",
+       "https://*.googleapis.com/*"
+    ],
+    "oauth2":{  
+     "client_id":"386958695873-7vf3j98q1uiepat4d01laipegih1kng6.apps.googleusercontent.com",
+       "scopes":[  
+          "https://www.googleapis.com/auth/classroom????"
+       ]
+    },
+   "key":"MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2D/aV8CB0/3++y92E3bWmXhYjSdRuyBe/ABUaZccHrNOz6v1RGXTGAF1vsYjoZ26EGf+brEXwY2HAmpcjv3HgQx2EjYuh9N50KN948NU4vkEC1JOlIk/eZQvbBTpLdQwoEj4pUmcQtgQehucSKlEHa3NP8fRXyRVBgNyUpjZzvbB8ZeA9GQzEbC3DGQrSj2JimWHetcMGkwlX/AM7v/ASmxbb9HK/7214rzAfVGGsLoFw0Exytly78Vy3R87Z9iWMahXZDD4KSEvLA92uXqUmR9gY14sytP6NlvUkU+qNPV/lpXbhujKBfMC2jarEi/3nPuUGXwOslobYo+fMBJ7RAgMBAAECggEAfYE/oVjpZv4CmAp9aGxWHpvZcvYgRUYWaIqsAYiLzZSsU+j4O4Hq59u0jZy7Hkq++r3ZYP0/MVmxN07aRcBhxhE+NfRFf54IA9dxRjPvKLCurD7SkRG4MT1DEPbnmsDTYoRA6cduWSzAZjLk87bMKOs/kKrgn+t0hbVJWgfCncHJlW7cchpg9COZ6hdPvtpwkvKpZ/lrqbRppijdvV3Ju1DXfyE14CzaydP1K/8ukgPKhLToLQBV+eKSgpDl1xXWpdN5o0G9yU2GK9yfjyreE+wSkddsosTXZ1hjMheJg+ykCV1626mKh5ddrHnHA5XP/ky7ZfcqfwBx3BOX4zesAQKBgQDnrGGsZgRMExLw0VCK/83jFr56EFPXp2RKRZzG95fSjhJ1jYdyccwOKaFWZfTKUegoELNdqvu8+BIMkTBHDK7Gfxl9CgZ4x5psVWuta0lj5TcBTQYJv6IfIvil0MxzVifUbgBkemK1xwsSoPywhKJ3yNG2Ms3Nd6eTDUw9DOH3oQKBgQDJLfyZSYoICsYUVDPyq6IqNkUpReUlTKoEvlXUYxksGNJ1rLZAbje1oMWTGPExmT/9AlMlAkWpmdLvbUzZhhwUuJmvptnK9HxZ0x7t4to/niR3BZrpge8meRd9ctxRVQlIYzm/YiM9wYoBM3RUquP8Bra/Ln0Aoo08GHddjaWZMQKBgAxRyVvejOnytbYim1LY6Xzi77wT9DFqkFW2v/CAqA0lSuv/W62FSaGTKyYqA8ticaL3yGH5vqs80dDjQ5rznLOnfJZ+mvt/OcH7BN/S7bMnNDaYfvKzww4+0NQYd1bGxRVxyAmPzIH4FKmn7+f/FZijECvNJc6AR2P1eBFjBv0hAoGAUinz9m7wbuRnjbnuFXg/nNnZWUfwlFFBRvqtdzaZ+0aP/ftx29Kn8ggdaTxQlZ8vYRfn+T96UBBA9ARB1L1PDq9uJS0R2jAL8WumQCXcWQsvfWTOpfupPp9KFrQogxcl2WidFyrvlbNLt73aDxJUVoQvctl7uByrbhXX+l91eKECgYEA3Co+BaXrL33fHS+NE4CsQk1cCT6p8CpZdIO+wtY2iLg+2fhyT2pnNpAY8LvBox1nm0d/iMfyoo5jZ0Nryu+JAoQL13qD4oD1BBvLSpeOGqpWYh0YtZfN8GWA6il3yGVGZEuyNpb8XV7PLmTYHP4FGScfAwCLe24yU6qWMwLsqsg="
+ }
